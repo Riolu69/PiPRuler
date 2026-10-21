@@ -13,6 +13,7 @@ targets:
         CODE_SIGNING_ALLOWED: NO
         CODE_SIGN_IDENTITY: ""
     info:
+      path: Info.plist
       properties:
         UIBackgroundModes: [audio]
         UILaunchStoryboardName: ""
